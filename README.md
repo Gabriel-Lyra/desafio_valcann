@@ -26,3 +26,5 @@
 - python scrapping_script.py
 - python create_update_csv.py
 - python update_database.py
+### 3. Desejas que o script rode em um horário específico? Recomendo fortemente o seguinte tutorial: 
+https://www.jcchouinard.com/python-automation-using-task-scheduler/
